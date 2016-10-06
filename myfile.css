@@ -1,0 +1,33 @@
+﻿body {
+    background-color: CadetBlue;
+}
+
+
+div.first {
+}
+.Image{
+max-width: 80%;
+position: justified;
+}
+
+.HeaderButtons{
+text-decoration: none;
+text-align: center;
+display: inline-block;
+list-style-type: none;
+}
+
+.Header {
+border: 0px solid black;
+position: relative;
+width: 70%;
+}
+
+.Image1{
+max-width: 80%;
+position: justified;
+}
+
+.Opera {
+max-width:80%;
+}
